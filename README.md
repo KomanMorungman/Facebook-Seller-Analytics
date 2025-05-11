@@ -1,4 +1,2 @@
 # Facebook-Seller-Analytics
-This project analyzed Facebook Live Seller data from Thai fashion and cosmetics pages to understand social media engagement.
-It explored how post types and upload timing influenced reactions, comments, and shares.
-Using clustering (K-Means) and statistical methods, it uncovered patterns in user interaction to guide better posting strategies.
+This project analyzed the Facebook Live Sellers in Thailand dataset (7,050 posts from 10 fashion and cosmetics pages) to uncover engagement patterns across reaction, comment, and share metrics. It examined how posting time (status_published) influences total reactions and explores correlations between reactions, comments, and shares to gauge audience interaction. Finally, it applied K-Means clustering (with the elbow method to select the optimal number of clusters) and computes post-type distributions and average engagement values to segment content and reveal underlying trends. It used Python in Google Colab.
